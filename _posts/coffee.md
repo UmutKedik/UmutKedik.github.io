@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample blog post
+title: Support
 ---
 
 Would you like to support me?
