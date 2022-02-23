@@ -47,7 +47,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: umutkedik
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -62,7 +62,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: I am trying you know
 
 # --- General options --- #
 
@@ -71,6 +71,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  instagram: true
   vk: false
 
 # How to display the link to your website in the footer
@@ -111,9 +112,9 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/bgimage.png"
+footer-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
